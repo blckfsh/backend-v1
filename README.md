@@ -28,7 +28,7 @@ Installation
 ```
 npm install
 ```
-from this directory. It will re-install the node_modules folder based on the dependencies on package.json file.
+from this directory. It will re-install the `node_modules` folder based on the dependencies on `package.json` file.
 
 Test
 -----
@@ -37,7 +37,7 @@ Test
 npm test
 ```
 from this directory.
-It will run the test script.
+It will run the `test` script.
 
 How to use?
 ----------
@@ -46,7 +46,7 @@ How to use?
 npm start
 ```
 from this directory.
-It will run the start script.
+It will run the `start` script.
 
 API reference
 -------------
