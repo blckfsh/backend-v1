@@ -8,8 +8,8 @@ Coding Style
 
 1. `CommonJS`
 
-Tech Framework/used
--------------------
+Packages used
+-------------
 
 1. [express](https://www.npmjs.com/package/express)
 2. [cors](https://www.npmjs.com/package/cors)
