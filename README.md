@@ -3,7 +3,7 @@ Yondu Exam BE
 
 The app can do simple crud functions.
 
-Common Style
+Coding Style
 ------------
 
 1. `CommonJS`
