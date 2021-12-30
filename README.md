@@ -50,4 +50,4 @@ It will run the start script.
 
 API reference
 -------------
-1. (http://localhost:8080/api/users)
+1. [http://localhost:8080/api/users](http://localhost:8080/api/users)
