@@ -28,7 +28,7 @@ Installation
 ```
 npm install
 ```
-from this directory.
+from this directory. It will re-install the node_modules folder based on the dependencies on package.json file.
 
 Test
 -----
