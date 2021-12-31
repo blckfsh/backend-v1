@@ -22,6 +22,11 @@ Packages used
 9. [jest](https://www.npmjs.com/package/jest)
 10. [supertest](https://www.npmjs.com/package/supertest)
 
+Database (MySQL)
+----------------
+
+Run Apache XAMPP Server, MySQL first. If for some reason you cannot connect the app to database, check the `config.json` under config folder. Try to change the `username` and `password` credentials with your credentials.
+
 Installation
 ------------
 
