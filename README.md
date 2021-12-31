@@ -55,4 +55,9 @@ It will run the `start` script.
 
 API reference
 -------------
-1. [http://localhost:8080/api/users](http://localhost:8080/api/users)
+1. GET All Users: [http://localhost:8080/api/users](http://localhost:8080/api/users)
+2. GET User by Id: [http://localhost:8080/api/users/1](http://localhost:8080/api/users/1)
+3. POST Create User: [http://localhost:8080/api/users](http://localhost:8080/api/users)
+4. PATCH Update User by Id: [http://localhost:8080/api/users/1](http://localhost:8080/api/users/1)
+5. DELETE Remove User by Id: [http://localhost:8080/api/users/1](http://localhost:8080/api/users/1)
+6. DELETE All Users: [http://localhost:8080/api/users/](http://localhost:8080/api/users/)
